@@ -1,0 +1,7 @@
+C:\Users\cy332\Desktop\tshock\Tshock-1.4\tshock\ServerPlugins\POBC.SHOP.dll
+C:\Users\cy332\Desktop\tshock\Tshock-1.4\tshock\ServerPlugins\POBC.SHOP.pdb
+C:\Users\cy332\Desktop\原创插件\1.4\PBOC\POBC2\POBC.SHOP\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CoreCompileInputs.cache
+C:\Users\cy332\Desktop\原创插件\1.4\PBOC\POBC2\POBC.SHOP\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CopyComplete
+C:\Users\cy332\Desktop\原创插件\1.4\PBOC\POBC2\POBC.SHOP\POBC.SHOP\obj\Debug\POBC.SHOP.dll
+C:\Users\cy332\Desktop\原创插件\1.4\PBOC\POBC2\POBC.SHOP\POBC.SHOP\obj\Debug\POBC.SHOP.pdb
+C:\Users\cy332\Desktop\原创插件\1.4\PBOC\POBC2\POBC.SHOP\POBC.SHOP\obj\Debug\POBC.SHOP.csprojAssemblyReference.cache
