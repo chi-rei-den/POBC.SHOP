@@ -167,7 +167,7 @@ namespace Shop
                                 return;
                             }
                             PlayItemSet(args.Player.Index, Stack(args.Player.Index), Config.ShopC[x].itemid, 1);
-                            POBC2.Db.DownC(args.Player.Name, Config.ShopC[x].C);
+                            POBC2.Db.DownC(args.Player.Name, Config.ShopC[x].C,"购买商城物品");
                             args.Player.SendErrorMessage("您已使用：" + Config.ShopC[x].C + "购买了物品：[ " + Config.ShopC[x].name + " ]");
 
                         }

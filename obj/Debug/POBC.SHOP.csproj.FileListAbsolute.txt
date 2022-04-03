@@ -9,3 +9,13 @@ C:\Users\cy332\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csprojAssemblyR
 C:\Users\cy332\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CoreCompileInputs.cache
 C:\Users\cy332\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.dll
 C:\Users\cy332\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.pdb
+C:\tshock\Tshock-1.4\tshock\ServerPlugins\POBC.SHOP.dll
+C:\tshock\Tshock-1.4\tshock\ServerPlugins\POBC.SHOP.pdb
+C:\Users\cy332\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CopyComplete
+C:\Users\cy\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csprojAssemblyReference.cache
+C:\Users\cy\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CoreCompileInputs.cache
+C:\Users\cy\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.csproj.CopyComplete
+C:\Users\cy\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.dll
+C:\Users\cy\Desktop\GitHub\pboc\POBC.SHOP\obj\Debug\POBC.SHOP.pdb
+C:\Users\cy\Desktop\tshock\Tshock 4.5.4\ServerPlugins\POBC.SHOP.dll
+C:\Users\cy\Desktop\tshock\Tshock 4.5.4\ServerPlugins\POBC.SHOP.pdb
