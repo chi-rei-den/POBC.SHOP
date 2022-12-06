@@ -1,0 +1,12 @@
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.csproj.AssemblyReference.cache
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.csproj.CoreCompileInputs.cache
+F:\仓库\GitHub\tshock\Tshock 4.5.4\ServerPlugins\net6.0\HttpServer.dll
+F:\仓库\GitHub\tshock\Tshock 4.5.4\ServerPlugins\net6.0\POBC.SHOP.deps.json
+F:\仓库\GitHub\tshock\Tshock 4.5.4\ServerPlugins\net6.0\POBC.SHOP.dll
+F:\仓库\GitHub\tshock\Tshock 4.5.4\ServerPlugins\net6.0\POBC.SHOP.pdb
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.csproj.CopyComplete
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.dll
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\refint\POBC.SHOP.dll
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\POBC.SHOP.pdb
+F:\仓库\GitHub\pobccore\POBC.SHOP\POBC.SHOP\obj\Debug\net6.0\ref\POBC.SHOP.dll
